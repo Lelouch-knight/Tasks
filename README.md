@@ -1,6 +1,6 @@
 # 笔记索引
 
-阶段一的学习笔记（Typora)
+阶段一的学习笔记<https://github.com/Lelouch-knight/Tasks/blob/main/阶段一学习笔记.md>（Typora)
 
 阶段二的学习笔记（git github)
 
